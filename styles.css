@@ -1,0 +1,20 @@
+.par {
+  border: 2px black dotted;
+  display: inline-block;
+}
+.box {
+  display: inline-block;
+  background: red;
+  width: 100px;
+  height: 100px;
+}
+#two {
+  top: 20px;
+  left: 20px;
+  position: absolute;
+  background: green;
+}
+#one{
+  left: 20px;
+  position: relative;
+}
